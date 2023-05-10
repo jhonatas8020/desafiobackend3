@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('José da Silva', '10020030080', 3000.00, '2000-01-03', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Maria José', '15025040000', 2500.00, '1990-03-06', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Bob Braw', '23000289885', 1000.00, '2005-02-20', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Evanio Souza', '00922236952', 3620.00, '1993-10-15', 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Rafael Oliver', '60000258232', 1500.00, '2003-11-08', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Gabriel Olivares', '69187800004', 5000.00, '1982-04-13', 4);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Ellen Zahi', '74162135090', 7230.00, '1994-12-25', 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Pedro Thiago', '11022233344', 1500.00, '2000-08-09', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Neymar Junior', '99988877766', 150000.00, '1996-01-01', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES('Rogério Ceni', '00100200304', 10000.00, '1950-05-16', 5);
